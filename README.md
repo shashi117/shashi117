@@ -5,8 +5,8 @@
 <br/>
 <br/>
 
- <img src="https://www.istockphoto.com/photo/businessman-works-on-laptop-showing-business-analytics-dashboard-with-charts-metrics-gm1488294044-513513679?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fdata%2520analysis%2F&utm_term=data+analysis" />
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
  📫 How to reach me **sry06052000@gmail.com**
 
