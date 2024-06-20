@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-![MasterHead](https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU)
+ <img src="https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU" />
 
 
  📫 How to reach me **sry06052000@gmail.com**
